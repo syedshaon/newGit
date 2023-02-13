@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Chapter 2 of my story.
+=======
+Second chapter of my story!
+ alien-plot
+>>>>>>> alien-plot
